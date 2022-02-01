@@ -1,16 +1,16 @@
 export const projects = [
   {
     title: 'To-Do-App',
-    description: "This is a to-do application. This website helps users organize their daily activities. Users can add tasks to the list, edit, and remove completed tasks from the list. Check out the website by clicking on \"Code\" below.",
+    description: 'This is a to-do application. This website helps users organize their daily activities. Users can add tasks to the list, edit, and remove completed tasks from the list. Check out the website by clicking on "Code" below.',
     image: 'https://www.linkpicture.com/q/todos.png',
-    tags: ['React', 'JavaScript', 'CSS3',],
+    tags: ['React', 'JavaScript', 'CSS3'],
     source: 'https://github.com/Azonkeu/to-do-app/tree/to-do',
     visit: 'https://azonkeu.github.io/to-do-app/',
     id: 0,
   },
   {
     title: 'Movie Shows',
-    description: "This website shows the most popular movies from an external API and allows users to comment and make reservations. The webapp has 3 user interfaces.",
+    description: 'This website shows the most popular movies from an external API and allows users to comment and make reservations. The webapp has 3 user interfaces.',
     image: 'https://www.linkpicture.com/q/mov.png',
     tags: ['JavaScript', 'HTML5', 'CSS3', 'API'],
     source: 'https://github.com/Azonkeu/Final-Javascript-capstone',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Math-Magicians',
-    description: "Math-Magicians is a website for math lovers. Users can do mathematical operations using the calculator.",
+    description: 'Math-Magicians is a website for math lovers. Users can do mathematical operations using the calculator.',
     image: 'https://www.linkpicture.com/q/calculat.png',
     tags: ['React', 'JavaScript', 'CSS3'],
     source: 'https://github.com/Azonkeu/math-magicians',

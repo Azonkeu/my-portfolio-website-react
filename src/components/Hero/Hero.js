@@ -18,7 +18,8 @@ const Hero = ({ handleClick }) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I'm a software engineer specializing in building and designing exceptional digital experiences.
+          I&apos;m a software engineer specializing in building and
+          designing exceptional digital experiences.
         </SectionText>
         <Button onClick={handleClick}>Learn more</Button>
       </LeftSection>
